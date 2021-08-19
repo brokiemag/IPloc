@@ -1,5 +1,5 @@
 # IPloc
-based on ipinfo
+*based on ipinfo*
 # what is IPloc
 With IPloc, you can pinpoint your users' locations, customize their experiences, prevent fraud, ensure compliance, and so much more.
 # How does IPloc
